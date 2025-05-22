@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+ASSETS/BRAIN1/.DS_Store
+ASSETS/BRAIN2/.DS_Store
+ASSETS/BRAIN3/.DS_Store
+ASSETS/BRAIN5/.DS_Store
+ASSETS/BRAIN7/.DS_Store
