@@ -66,4 +66,5 @@ Follow these steps to contribute to or modify the project:
 # Attribution & License
 
 This project is developed by Louis-James Pouleur.
+
 This project is licensed under the MIT License. See the full license text in the LICENSE.md file.
