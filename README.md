@@ -57,9 +57,9 @@ Follow these steps to contribute to or modify the project:
   - `PROJECT/`: Contains the Touchdesigner Project
 
 ## References 
-Ableton: Eptiar [RYOJI IKEDA INSPIRED MINIMAL GLITCH BEATS](https://youtu.be/1GW7xICyA30?si=2Jt99EzlFuxg5Q97)
-Animation 1: PJ Visuals [Frequency Guided Particle Sim Touchdesigner Tutorial](https://youtu.be/A1TfrWmrOfA?si=0YdBhTJ2wMyfK96S)
-Animation 2: supermarket sallad [Disintegration pt. 1](https://youtu.be/WavVlg3PZnk?si=NfR7hA4RbdxgLPAo) and [Disintegration pt. 2](https://youtu.be/KWOcPsk4d9w?si=gfD9A2FMcX4FZ-BZ)
-Animation 4: PJ Visuals [Audio Reactive Spectrum Visual in Touchdesigner](https://youtu.be/jaXFcHgguq0?si=I5cqx5cgZyN_yvsa) 
-Brains animation: Alexxxxxi [3D Laser scanning dissipation](https://youtu.be/Nqg8T4FtbRE?si=SCflxV0S215VZqPp)
+- Ableton: Eptiar [RYOJI IKEDA INSPIRED MINIMAL GLITCH BEATS](https://youtu.be/1GW7xICyA30?si=2Jt99EzlFuxg5Q97)
+- Animation 1: PJ Visuals [Frequency Guided Particle Sim Touchdesigner Tutorial](https://youtu.be/A1TfrWmrOfA?si=0YdBhTJ2wMyfK96S)
+- Animation 2: supermarket sallad [Disintegration pt. 1](https://youtu.be/WavVlg3PZnk?si=NfR7hA4RbdxgLPAo) and [Disintegration pt. 2](https://youtu.be/KWOcPsk4d9w?si=gfD9A2FMcX4FZ-BZ)
+- Animation 4: PJ Visuals [Audio Reactive Spectrum Visual in Touchdesigner](https://youtu.be/jaXFcHgguq0?si=I5cqx5cgZyN_yvsa) 
+- Brains animation: Alexxxxxi [3D Laser scanning dissipation](https://youtu.be/Nqg8T4FtbRE?si=SCflxV0S215VZqPp)
 
