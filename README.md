@@ -7,7 +7,7 @@ This repository contains the final project for my last year of the Bachelor's pr
 **Triggers** is an audiovisual installation and research project that explores the dopamine-driven effects of smartphone notifications on the evening routines of young adults aged 18 to 21. Through generative visuals and immersive sound design, the installation visualizes the emotional and cognitive impact of digital interruptions, reflecting how attention, sleep patterns, and emotional well-being are influenced by constant connectivity.
 
 
-# Needs
+# Requirements
 To fully experience this project, you’ll need an educational or higher license for [TouchDesigner](https://derivative.ca/download), along with the latest version of Ableton Live 12. Compatibility with Ableton Live 11 is still in progress.
 
 The project also runs with the non-commercial TouchDesigner license, but this will limit the output resolution.
