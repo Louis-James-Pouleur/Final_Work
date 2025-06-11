@@ -63,3 +63,7 @@ Follow these steps to contribute to or modify the project:
 - Animation 4: PJ Visuals [Audio Reactive Spectrum Visual in Touchdesigner](https://youtu.be/jaXFcHgguq0?si=I5cqx5cgZyN_yvsa) 
 - Brains animation: Alexxxxxi [3D Laser scanning dissipation](https://youtu.be/Nqg8T4FtbRE?si=SCflxV0S215VZqPp)
 
+# Attribution & License
+
+This project is developed by Louis-James Pouleur.
+This project is licensed under the MIT License. See the full license text in the LICENSE.md file.
